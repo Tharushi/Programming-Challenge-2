@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="33" height="20" tilewidth="32" tileheight="32" backgroundcolor="#ffffff">
+ <tileset firstgid="1" name="mapBasic" tilewidth="32" tileheight="32">
+  <image source="mapBasic.png" width="640" height="480"/>
+ </tileset>
+ <tileset firstgid="301" name="Bb8ab" tilewidth="32" tileheight="32">
+  <image source="Bb8ab.png" width="2000" height="1131"/>
+ </tileset>
+ <tileset firstgid="2471" name="302cnk6" tilewidth="32" tileheight="32">
+  <image source="302cnk6.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="2472" name="stone" tilewidth="32" tileheight="32">
+  <image source="12674934943IA529.jpg" width="400" height="266"/>
+ </tileset>
+ <tileset firstgid="2568" name="stone" tilewidth="32" tileheight="32">
+  <image source="stone.jpg" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="2632" name="android-game-tank" tilewidth="32" tileheight="32">
+  <image source="android-game-tank.jpg" width="550" height="343"/>
+ </tileset>
+ <tileset firstgid="2802" name="images (3)" tilewidth="32" tileheight="32">
+  <image source="images (3).jpg" width="259" height="194"/>
+ </tileset>
+ <tileset firstgid="2850" name="images (4)" tilewidth="32" tileheight="32">
+  <image source="images (4).jpg" width="262" height="192"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="33" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC5vPxcAwn4qYhZt0TE37R92A6QYdIvCoG0bdMNLcMBjy5qgbRt0w6oZRNwwXNwAA3NvDMFAKAAA=
+  </data>
+ </layer>
+</map>
